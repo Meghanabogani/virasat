@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Virasat – Heritage near you, with a local guide</title>
+  <meta name="description" content="Find heritage sites near you, see shot ideas to recreate, and book a student local guide by the hour.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Young+Serif&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="panel">
+      <header class="brand">
+        <svg class="brand-mark" viewBox="0 0 40 48" aria-hidden="true">
+          <path d="M20 2 C20 2 6 14 6 30 L6 46 L34 46 L34 30 C34 14 20 2 20 2 Z M20 16 C20 16 14 22 14 30 L14 46 L26 46 L26 30 C26 22 20 16 20 16 Z" fill-rule="evenodd"/>
+        </svg>
+        <div>
+          <h1>Virasat</h1>
+          <p>Heritage near you, with a local who knows it.</p>
+        </div>
+      </header>
+
+      <div class="locbar">
+        <span id="locStatus" role="status">Finding your location…</span>
+        <button id="relocate" class="link">Use my location</button>
+      </div>
+
+      <div class="panel-scroll" id="scroll">
+        <section id="listView" aria-label="Heritage sites">
+          <ul id="siteList" class="sites"></ul>
+        </section>
+        <section id="detailView" hidden></section>
+      </div>
+
+      <footer class="panel-foot">
+        <button id="becomeGuide" class="btn ghost">Become a local guide</button>
+      </footer>
+    </aside>
+
+    <main class="mapwrap"><div id="map" aria-label="Map of heritage sites"></div></main>
+  </div>
+
+  <dialog id="bookDialog"></dialog>
+  <dialog id="guideDialog"></dialog>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

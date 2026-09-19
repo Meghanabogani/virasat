@@ -1,0 +1,137 @@
+[
+  {
+    "id": "charminar", "name": "Charminar", "city": "Hyderabad", "state": "Telangana",
+    "lat": 17.3616, "lng": 78.4747, "type": "Monument", "era": "1591",
+    "blurb": "Four-minaret landmark built by Muhammad Quli Qutb Shah, surrounded by the Laad Bazaar and Irani chai cafes.",
+    "hours": "Typically 9:30 AM – 5:30 PM", "bestTime": "Evening, when the market is lit up",
+    "hashtag": "charminar",
+    "spots": [
+      { "title": "Minaret through the bazaar", "how": "Shoot from the Laad Bazaar side with a shop awning framing the top corner. Wide lens, vertical crop.", "time": "6–7 PM" },
+      { "title": "Chai and Charminar", "how": "Sit at a cafe opposite the monument, hold a cup of Irani chai low in the frame with the arch behind it.", "time": "Golden hour" },
+      { "title": "Night-lights loop", "how": "Use a 1-second exposure from the road divider to turn traffic into light trails.", "time": "After 8 PM" }
+    ]
+  },
+  {
+    "id": "golconda", "name": "Golconda Fort", "city": "Hyderabad", "state": "Telangana",
+    "lat": 17.3833, "lng": 78.4011, "type": "Fort", "era": "12th–17th century",
+    "blurb": "Granite hill fort with famous acoustics at the Fateh Darwaza and a sound-and-light show in the evening.",
+    "hours": "Typically 9:00 AM – 5:30 PM", "bestTime": "Early morning, before the crowd",
+    "hashtag": "golcondafort",
+    "spots": [
+      { "title": "Clap-echo reel", "how": "Stand under the entrance dome, clap once, and film the reaction of the person at the far end.", "time": "Morning" },
+      { "title": "Summit skyline", "how": "Climb to the Baradari at the top and frame the city with a stone arch as the foreground.", "time": "Sunset" },
+      { "title": "Stairway symmetry", "how": "Centre the camera on the wide stone stairs and have your subject walk away from you.", "time": "Soft light" }
+    ]
+  },
+  {
+    "id": "qutb-shahi-tombs", "name": "Qutb Shahi Tombs", "city": "Hyderabad", "state": "Telangana",
+    "lat": 17.3949, "lng": 78.3944, "type": "Tombs", "era": "16th–17th century",
+    "blurb": "Domed tombs of the Qutb Shahi rulers set in landscaped gardens, quiet even on busy weekends.",
+    "hours": "Typically 9:30 AM – 4:30 PM", "bestTime": "Late afternoon",
+    "hashtag": "qutbshahitombs",
+    "spots": [
+      { "title": "Dome row", "how": "Line up several domes in one frame using a longer lens from the garden path.", "time": "4 PM" },
+      { "title": "Arch portrait", "how": "Place your subject inside a pointed arch with the dome visible above their head.", "time": "Golden hour" }
+    ]
+  },
+  {
+    "id": "chowmahalla", "name": "Chowmahalla Palace", "city": "Hyderabad", "state": "Telangana",
+    "lat": 17.3578, "lng": 78.4718, "type": "Palace", "era": "18th–19th century",
+    "blurb": "Palace of the Nizams with courtyards, a Durbar Hall of chandeliers, and a vintage car gallery.",
+    "hours": "Typically 10:00 AM – 5:00 PM, closed Fridays", "bestTime": "Weekday mornings",
+    "hashtag": "chowmahallapalace",
+    "spots": [
+      { "title": "Fountain courtyard", "how": "Shoot along the long reflecting pool so the palace facade mirrors in the water.", "time": "Morning" },
+      { "title": "Chandelier look-up", "how": "Point the camera straight up in the Durbar Hall for a symmetrical chandelier shot.", "time": "Any time" }
+    ]
+  },
+  {
+    "id": "warangal-fort", "name": "Warangal Fort", "city": "Warangal", "state": "Telangana",
+    "lat": 17.9469, "lng": 79.5786, "type": "Fort", "era": "12th–13th century",
+    "blurb": "Kakatiya-era fort known for its stone gateways, the Kakatiya Kala Thoranam.",
+    "hours": "Typically 9:00 AM – 5:30 PM", "bestTime": "Morning",
+    "hashtag": "warangalfort",
+    "spots": [
+      { "title": "Gateway frame", "how": "Stand back and use the carved stone gateway as a natural frame around your subject.", "time": "Morning" },
+      { "title": "Ruins walk", "how": "Film a slow walking shot through the ruins with the gateway in the distance.", "time": "Late afternoon" }
+    ]
+  },
+  {
+    "id": "ramappa", "name": "Ramappa Temple", "city": "Mulugu", "state": "Telangana",
+    "lat": 18.2585, "lng": 79.9435, "type": "Temple", "era": "1213 CE",
+    "blurb": "Kakatiya temple and UNESCO World Heritage Site, famous for detailed carvings and its lightweight 'floating' bricks.",
+    "hours": "Typically 8:00 AM – 6:00 PM", "bestTime": "Morning light",
+    "hashtag": "ramappatemple",
+    "spots": [
+      { "title": "Carving close-up", "how": "Get close to the pillar carvings and let the side light bring out the detail.", "time": "Morning" },
+      { "title": "Nandi and temple", "how": "Frame the Nandi statue in the foreground with the temple in the background.", "time": "Golden hour" }
+    ]
+  },
+  {
+    "id": "taj-mahal", "name": "Taj Mahal", "city": "Agra", "state": "Uttar Pradesh",
+    "lat": 27.1751, "lng": 78.0421, "type": "Mausoleum", "era": "1632–1653",
+    "blurb": "White marble mausoleum built by Shah Jahan, known for its symmetry and the changing colour of the marble through the day.",
+    "hours": "Sunrise to sunset, closed Fridays", "bestTime": "Sunrise",
+    "hashtag": "tajmahal",
+    "spots": [
+      { "title": "Centre-line reflection", "how": "Stand on the central walkway and line up the dome with the reflecting channel.", "time": "Sunrise" },
+      { "title": "Arch-framed Taj", "how": "Shoot from inside the main gate so the arch frames the mausoleum.", "time": "Early morning" },
+      { "title": "Mehtab Bagh view", "how": "Cross the river to Mehtab Bagh for a calmer view of the Taj at sunset.", "time": "Sunset" }
+    ]
+  },
+  {
+    "id": "red-fort", "name": "Red Fort", "city": "Delhi", "state": "Delhi",
+    "lat": 28.6562, "lng": 77.2410, "type": "Fort", "era": "1639–1648",
+    "blurb": "Red sandstone Mughal fort and UNESCO site, with the Lahori Gate and the Diwan-i-Aam.",
+    "hours": "Typically 9:30 AM – 4:30 PM, closed Mondays", "bestTime": "Morning",
+    "hashtag": "redfortdelhi",
+    "spots": [
+      { "title": "Lahori Gate wide", "how": "Use a wide lens from the front lawn so the whole gate and flag sit in the frame.", "time": "Morning" },
+      { "title": "Sandstone arches", "how": "Shoot down a row of arches in the Diwan-i-Aam to make a repeating pattern.", "time": "Midday shade" }
+    ]
+  },
+  {
+    "id": "hawa-mahal", "name": "Hawa Mahal", "city": "Jaipur", "state": "Rajasthan",
+    "lat": 26.9239, "lng": 75.8267, "type": "Palace", "era": "1799",
+    "blurb": "The pink sandstone 'Palace of Winds' with 953 small windows designed so royal women could watch street life.",
+    "hours": "Typically 9:00 AM – 5:00 PM", "bestTime": "Sunrise, when the facade glows",
+    "hashtag": "hawamahal",
+    "spots": [
+      { "title": "Cafe-rooftop view", "how": "Take the facade from a cafe across the street so the full building fits in one frame.", "time": "Sunrise" },
+      { "title": "Window portrait", "how": "Go inside and frame your subject in one of the small windows looking out at the street.", "time": "Morning" }
+    ]
+  },
+  {
+    "id": "gateway-of-india", "name": "Gateway of India", "city": "Mumbai", "state": "Maharashtra",
+    "lat": 18.9220, "lng": 72.8347, "type": "Monument", "era": "1924",
+    "blurb": "Basalt arch on the Mumbai waterfront, facing the Arabian Sea and the Taj Mahal Palace hotel.",
+    "hours": "Open all day", "bestTime": "Sunset",
+    "hashtag": "gatewayofindia",
+    "spots": [
+      { "title": "Arch with boats", "how": "Shoot from the promenade with the harbour boats in the foreground.", "time": "Sunset" },
+      { "title": "Blue-hour silhouette", "how": "Have your subject stand under the arch and expose for the sky to make a clean silhouette.", "time": "Blue hour" }
+    ]
+  },
+  {
+    "id": "mysore-palace", "name": "Mysore Palace", "city": "Mysuru", "state": "Karnataka",
+    "lat": 12.3052, "lng": 76.6552, "type": "Palace", "era": "1912",
+    "blurb": "Indo-Saracenic palace of the Wadiyar dynasty, lit by about 100,000 bulbs on Sundays and festival evenings.",
+    "hours": "Typically 10:00 AM – 5:30 PM", "bestTime": "Sunday evening illumination",
+    "hashtag": "mysorepalace",
+    "spots": [
+      { "title": "Illuminated facade", "how": "Shoot from the front lawn during the Sunday lighting with a steady hand or a tripod.", "time": "7 PM Sunday" },
+      { "title": "Garden path", "how": "Line up the palace at the end of the garden path for depth.", "time": "Morning" }
+    ]
+  },
+  {
+    "id": "hampi", "name": "Hampi, Vittala Temple", "city": "Hampi", "state": "Karnataka",
+    "lat": 15.3350, "lng": 76.4600, "type": "Temple complex", "era": "14th–16th century",
+    "blurb": "UNESCO site of the Vijayanagara Empire, home to the stone chariot and the musical pillars.",
+    "hours": "Typically 8:30 AM – 5:30 PM", "bestTime": "Early morning",
+    "hashtag": "hampi",
+    "spots": [
+      { "title": "Stone chariot", "how": "Shoot the chariot from a low angle so it stands tall against the sky.", "time": "Morning" },
+      { "title": "Boulder sunset", "how": "Climb Matanga Hill to catch the ruins and boulders in the evening light.", "time": "Sunset" }
+    ]
+  }
+]
